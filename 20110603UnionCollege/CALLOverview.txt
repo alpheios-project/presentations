@@ -1,0 +1,106 @@
+
+
+COMPUTER-ASSISTED LANGUAGE LEARNING
+
+   Major Organizations:
+
+      CALICO  (Computer Assisted Language Instruction Consortium)
+        https://www.calico.org/page.php?id=505
+
+          Most recent Conference Proceedings: (May 2011)
+              https://www.calico.org/page.php?id=567
+
+      IALLT  (International Association for Language Learning Technology)
+        http://www.iallt.org/
+
+      EUROCALL
+        http://www.eurocall-languages.org/
+
+      AAAL  (American Association of Applied Linguistics)
+        http://www.aaal.org/displaycommon.cfm?an=2
+
+  -COMPUTER MEDIATED COMMUNICATION  (CMC)
+
+    Synchronous:  
+       eg Skype
+          Virtual Worlds
+          chat
+
+    Asynchronous:
+       eg email
+          Twitter
+
+    Broadcast- "push"
+       eg Podcasts
+          Blogs
+          various "distance learning" techniques 
+
+    Collaborative
+        eg Wikis
+
+    For overview of resources in this rapidly expanding field, see:
+    http://www.december.com/cmc/info/all.html
+    www.livemocha.com is one of many companies providing cmc services
+
+  -INTELLIGENT COMPUTER ASSISTED LANGUAGE LEARNING  (ICALL)
+
+     - uses some kind of language model
+         part of speech taggers, morphological analyzers, 
+         natural language processors, thesauri etc
+
+     - informed by some analysis of corpora
+             frequency analysis of vocabulary and inflections
+             annotated corpora  (automatic and/or manual annotation)
+                part of speech, morphological analysis
+                syntactic relations: dependency or XXXX constituency 
+                semantic tagging
+                alignment with translations
+                 
+     - for reading support-  vocabulary, grammar, references
+     - for formative assessment- evolving user model of proficiency 
+       versus target proficiency
+
+    examples of ICALL:
+
+    The Alpheios Project    http://alpheios.net
+
+     - an open-source infrastructure to support a full range of 
+       reading support and text analysis tools.
+
+    Michael Walmsley: (University of Waikato) Flax-Reader  
+       http://flax.nzdl.org/reader/files/Walmsley_NZCSRSC_2010.pdf
+
+     - leveraging the academic version of Google Translate 
+       into a reading support tool with pedagogical features.
+
+    Detmar Meurers: (University of Tuebingen) Werti and Tagarella
+
+     - enhancing authentic machine readable texts for pedagogical emphasis: 
+         Werti http://sifnos.sfs.uni-tuebingen.de/WERTi/index.jsp?content=about
+         Tagarella http://sifnos.sfs.uni-tuebingen.de/tagarela/index.py/main
+
+    Trudi Heift: (Simon Fraser University)  E-Tutor. 
+    http://www.e-tutor.org:8080/public/legal/TermsOfUse.jsp
+
+     - a full e-tutor for German that is already being used as a platform
+       for CALL research.
+
+    Noriko Nagata:  (University of San Francisco)  Robo-Sensei
+       http://usf.usfca.edu/japanese/RSdemo/preRSfiles/Robo-Sensei.htm
+
+     - a full e-tutor for Japanese that is already being used as a 
+       platform for CALL research.
+
+    ############
+
+    The future of CALL:
+
+        can provide a stable platform for research to address some of the
+            perennial questions in language learning: eg optimal interval
+            for reviewing vocabulary words; importance of individual differences            in language learning, etc.
+
+        can provide a stable platform for going beyond traditional teaching
+            methods, for self-initiated learning, formative assessment and
+            various "gamification" approaches.
+
+

@@ -1,0 +1,86 @@
+
+
+COMPUTER-ASSISTED TEXT EXPLORATION- 
+    CORPUS LINGUISTICS, 
+    COMPUTATIONAL LINGUISTICS
+
+    New Corpora- Today the availability of 
+        - much larger machine-readable corpora
+        - and much more varied content- (with the potential for near term 
+              availability of all text from all periods and genres 
+              in all languages)
+        is transforming corpora from resources used chiefly by linguists
+        to fundamental resources for research in all the humanities.
+        Examples of corpus resources can be found at:
+         http://ngrams.googlelabs.com/info,  http://ngrams.googlelabs.com
+         http://catalog.elra.info/
+         http://www.ldc.upenn.edu/Catalog/
+         http://corpus.byu.edu/
+
+    New Analytic Tools- The new corpora are inspiring rapid development of
+        new text mining applications.  For recent annotated lists of
+        concordance and text analysis software see:
+        http://alias-i.com/lingpipe/web/competition.html
+        http://www-nlp.stanford.edu/links/statnlp.html
+
+    PEDAGOGY
+
+      Pedagogical Use of Corpora in Language Learning
+
+         eg find similar  vocabulary, grammar
+            interactive alignment
+            interactive treebank completion
+            answer questions about incompletely understood distinctions
+                  diction, grammar, etc
+
+         For a recent overview with practical examples of "corpus based 
+         discovery learning" (with students of German) see:
+         https://www.calico.org/Podcasts2011/Sat/Vyatkina_CALICO_2011.pdf
+         https://www.calico.org/Podcasts2011/Sat/Vyatkina_references.pdf
+       
+    RESEARCH
+  
+         Linguistic
+
+            Tracing the development and interactions of languages throughout
+              history, vocabulary, syntax, prosody, stylistics etc
+
+            Testing specific theories of language acquisition and use
+
+         Digital Humanities in general: Literature, History, Philosophy and
+            the Social Sciences- psychology, anthropology, sociology...
+
+            Answering questions of author attribution, 
+                sequence of compositions etc
+
+            Following patterns of influence and their gradual transformation
+                in quantitative terms- "data driven" cultural history  and
+                sociology of knowledge.
+
+            Testing controversial and provocative suggestions in the
+                history of culture and sociology of knowledge- eg
+                parallels among the arts, and betweens arts and sciences.
+
+            Identifying unsuspected cultural patterns of parallel 
+                development or influence. 
+
+            modeling the information flow within cultures- and thus gradually
+                developing a dynamic model of cultural structure and change
+                that can shed light also on the dynamic of the individual
+                within the culture.
+
+            An example of a research organization focussed on exploiting the
+            new resources is the Harvard Cultural Observatory.
+            http://www.culturomics.org/home
+
+            Similar organizations and institutes can be expected to focus on
+            specific subject areas where very careful control of search 
+            vocabulary can be developed effectively. One would expect the 
+            history of science, technology and medicine to yield results 
+            before many other branches of learning because of their relatively
+            standardized and concrete vocabulary. Universities and colleges 
+            with strong technical faculties could leverage this expertise 
+            to illuminate the historical development of these disciplines
+            and their roles within their larger culture.
+
+

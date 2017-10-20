@@ -1,0 +1,56 @@
+
+
+The Alpheios Project: an integrated infrastructure for
+
+  - Reading Support Tools  
+
+        -   to encourage extensive reading in a foreign language
+        -   to enable scholars to examine original texts in unfamiliar languages
+
+  - Language Learning
+
+     Customizable target proficiency
+          Automatically defining target proficiency on the basis of user's
+          interests and explicit choices.
+               vocabulary frequency ranking
+               target inflections
+               target syntax
+       Learner Model
+               recording progess against the target proficiency
+     Customizable learning methods
+        adapting presentation to level of motivation and ability
+     Customizable evaluation methods
+       ongoing real time
+            user behavior- use of lookups etc
+            explicit quizes
+       periodic exams coordinated with standard syllabi
+
+  - Text Analysis and Discussion
+            relative frequency of 
+                lemmas and inflected forms
+                grammatical constructions
+            tools for interactive target corpus exploration
+                find similar for terms and constructions
+            discussion and publication platforms 
+
+  - The Development of Resources to Support the Above Goals
+
+        Creating Searchable databases of
+
+        -   Machine-readable Unicode texts 
+        -   Lexicons, Grammars and Inflection Tables
+
+        Annotated Corpora:
+
+        - Original texts aligned with translations
+        - Treebanked texts 
+        - Synchronized audio and Text files
+
+       Adapting Existing Automatic Parsing and Aligning Tools
+
+       Editors for Manual Annotation and Correction of Automatic Annotations
+
+        - Alignment Editor
+        - Treebank Editor (including morphological and Part-of-speech tagging)
+
+      Platforms for Discussion of Annotation Practice
